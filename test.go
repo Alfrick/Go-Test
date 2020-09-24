@@ -1,6 +1,6 @@
 package test
 
-import "fomt"
+import "fmt"
 
 func MyTestFunc() {
 	fmt.Println("First version of test")
